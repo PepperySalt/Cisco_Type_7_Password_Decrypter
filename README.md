@@ -1,6 +1,6 @@
-# Cisco_Type_7_Hash_Reverser
+# Cisco_Type_7_Decrypter
 
-This is a simple python script meant to reverse hash Cisco Type 7 passwords.
+This is a simple python script meant to decrypt Cisco's rooter Type 7 encryped passwords.
 This was created purely for educational purposes.
 
 This code was created by converting this C script :
